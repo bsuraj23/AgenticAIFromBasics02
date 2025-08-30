@@ -4,11 +4,6 @@
 
 this line is from anusha 
 
-# FortuneIT_01
-FortuneIT_01
-
-
-This is Sindhu code and line
 
 differnce bitween gemini ai and chart gpt
 
