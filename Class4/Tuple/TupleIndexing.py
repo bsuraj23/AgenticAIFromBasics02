@@ -1,0 +1,6 @@
+t = (10)
+print(t[0])
+print(t[-1])
+print(t[2])
+print(t[1])
+print(t[-2])
