@@ -69,3 +69,18 @@ Analytics/monitoring: user behavior data, error reporting
 Backend integration: APIs, databases, auth services
 Compliance: privacy policy, cookies, data protection
 
+**task (16-09-25)**
+-->Fast API:
+API-first projects or microservices: If your primary deliverable is a fast, well-documented API (REST or GraphQL), FastAPI shines.
+Performance requirements: FastAPI is built on ASGI (async) and tends to be faster than many traditional frameworks for I/O-bound workloads.
+
+-->When to use Django:
+Full-featured web applications: If you’re building a traditional server-rendered site with complex templates, authentication, admin interface, forms, and ORM‑driven data models, Django’s batteries-included approach is powerful.
+Rapid CRUD apps with admin tooling: Django’s admin site is a strong productivity booster for content-heavy apps or internal tools.
+
+-->Choose between them:
+You’re building an API-only service with high performance needs? Lean toward FastAPI.
+You’re building a traditional web app with admin UI, forms, and server-rendered pages? Django is often the first choice.
+
+-->GDPR stands for General Data Protection Regulation. It’s the European Union’s data privacy and security regulation, in effect since May 25, 2018, with extra-territorial reach
+Strengthen individuals’ data rights and give people more control over how their personal data is collected, stored, processed, and shared.
