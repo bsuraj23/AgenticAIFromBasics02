@@ -1,0 +1,18 @@
+class Dog:
+    def sound(self):
+        return "Bark"
+class Cat:
+    def sound(self):
+        return "Meow"
+
+# Polymorphism example
+def make_sound(animal):
+    print(animal.sound())
+
+# Objects
+dog = Dog()
+cat = Cat()
+
+# Calling same function with different objects
+make_sound(dog)   # Output: Bark
+make_sound(cat)   # Output: Meow
