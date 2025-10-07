@@ -1,0 +1,32 @@
+What is Abstraction?
+
+Abstraction is one of the four main pillars of Object-Oriented Programming (OOP) (the others being Encapsulation, Inheritance, and Polymorphism).
+
+Definition:
+Abstraction means hiding complex implementation details and showing only the essential features of an object.
+
+It allows you to focus on what an object does instead of how it does it.
+
+Real-life Example
+
+Think of driving a car:
+
+You use the steering wheel, accelerator, and brake.
+
+You don’t need to know how the engine works, how the fuel gets injected, or how the braking system transmits force.
+
+The car’s complex inner workings are abstracted away from you.
+
+Abstraction in Python
+
+Python supports abstraction mainly through abstract classes and interfaces using the abc (Abstract Base Class) module.
+
+The abc module
+
+The abc module (introduced in Python 3.0) provides tools for defining abstract base classes.
+
+You can use it to:
+
+Define abstract methods (methods that must be implemented in subclasses).
+
+Prevent direct instantiation of the abstract class.
